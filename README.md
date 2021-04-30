@@ -1,4 +1,21 @@
-### Hi there 👋
+#### Hi About Me 👋
+
+## Skills
+####  Backend
+- Java
+- Jsp MVC2, Servlet
+- Spring MVC
+- Oracle
+- Tomcat
+
+####  Frontend
+- HTML5, CSS3, JavaScript, JQuery
+- Bootstrap
+####  Text Editor
+- Visual Studio Code
+####   VCS
+- Git, GitHub
+
 
 <!--
 **CHOI-0627/CHOI-0627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
